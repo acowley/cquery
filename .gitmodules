@@ -1,15 +1,20 @@
 [submodule "third_party/rapidjson"]
-	path = third_party/rapidjson
-	url = https://github.com/miloyip/rapidjson
+        path = third_party/rapidjson
+        url = https://github.com/miloyip/rapidjson
+        shallow = true
 [submodule "third_party/doctest"]
-	path = third_party/doctest
-	url = https://github.com/onqtam/doctest
+        path = third_party/doctest
+        url = https://github.com/onqtam/doctest
+        shallow = true
 [submodule "third_party/sparsepp"]
-	path = third_party/sparsepp
-	url = https://github.com/greg7mdp/sparsepp
+        path = third_party/sparsepp
+        url = https://github.com/greg7mdp/sparsepp
+        shallow = true
 [submodule "third_party/loguru"]
-	path = third_party/loguru
-	url = https://github.com/emilk/loguru
+        path = third_party/loguru
+        url = https://github.com/emilk/loguru
+        shallow = true
 [submodule "third_party/msgpack-c"]
-	path = third_party/msgpack-c
-	url = https://github.com/msgpack/msgpack-c
+        path = third_party/msgpack-c
+        url = https://github.com/msgpack/msgpack-c
+        shallow = true
